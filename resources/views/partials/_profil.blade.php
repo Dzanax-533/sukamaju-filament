@@ -52,7 +52,6 @@
             </div>
         </div>
         
-        <!-- ================== BAGIAN STRUKTUR ORGANISASI YANG DIPERBARUI ================== -->
         <div class="row mb-5">
             <div class="col-lg-12">
                 <div id="struktur-organisasi" class="text-center">
